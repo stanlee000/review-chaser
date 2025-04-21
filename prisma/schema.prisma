@@ -1,0 +1,23 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL") // Used for direct connections to Supabase
+}
+
+model Review {
+  id          String   @id @default(uuid())
+  title       String
+  description String
+  status      String   @default("PENDING")
+  priority    String   @default("MEDIUM")
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  userId      String
+  
+  // Add Supabase RLS policies
+  @@map("reviews")
+} 
