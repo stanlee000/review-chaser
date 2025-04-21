@@ -38,10 +38,6 @@ An AI-powered tool designed to help businesses analyze their website presence, g
     -   Generates email templates (subject, content, incentive) using AI.
     -   Accessible within the email sending dialog for quick regeneration.
     -   Takes product name and context as input.
--   **Settings Page:**
-    -   Allows persistent editing of business profile details (Company Name, Website, Additional Context).
-    -   Manages review platform profile URLs.
-    -   Allows customization and saving of the default email template settings (From Name/Email, Subject, Tone, Content, Incentive).
 -   **Frontend Interface:**
     -   React-based single-page application built with Material UI.
     -   Includes user authentication (via Supabase Auth).
@@ -50,9 +46,6 @@ An AI-powered tool designed to help businesses analyze their website presence, g
 ## Usage Example
 [![Watch the video](https://github.com/user-attachments/assets/e1cd09df-29a9-41ab-bd8f-f3c4f106a1be)](https://www.loom.com/share/a6015c4e552a453c864f81fefcfbfb92?sid=b855227a-3586-465e-952a-1d469b2f7541)
 <img width="400" alt="review_chaser_1" src="https://github.com/user-attachments/assets/4b5a732e-3250-4905-b205-7d6347346c49" />
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/d9bf1617-f464-43b4-9678-06fe615e2f1c" />
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/3e311b8d-ae9f-4f71-9072-8d6902dfc696" />
-
 
 ## Tech Stack
 
