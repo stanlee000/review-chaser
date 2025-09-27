@@ -38,10 +38,6 @@ An AI-powered tool designed to help businesses analyze their website presence, g
     -   Generates email templates (subject, content, incentive) using AI.
     -   Accessible within the email sending dialog for quick regeneration.
     -   Takes product name and context as input.
--   **Frontend Interface:**
-    -   React-based single-page application built with Material UI.
-    -   Includes user authentication (via Supabase Auth).
-    -   Provides dedicated routes for Dashboard, Settings, and Onboarding.
 
 ## Usage Example
 [![Watch the video](https://github.com/user-attachments/assets/e1cd09df-29a9-41ab-bd8f-f3c4f106a1be)](https://www.loom.com/share/a6015c4e552a453c864f81fefcfbfb92?sid=b855227a-3586-465e-952a-1d469b2f7541)
