@@ -1,7 +1,6 @@
 # Review Chaser
 
 An AI-powered tool designed to help businesses analyze their website presence, generate authentic-sounding customer reviews, and manage review request campaigns via email.
-
 ## Features
 
 -   **Onboarding Flow:**
