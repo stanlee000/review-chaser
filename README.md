@@ -2,7 +2,6 @@
 
 An AI-powered tool designed to help businesses analyze their website presence, generate authentic-sounding customer reviews, and manage review request campaigns via email.
 ## Features
-
 -   **Onboarding Flow:**
     -   Guides users through initial setup: business name, website URL.
     -   Performs website analysis to extract key information (product name, description, features, target audience, industry, unique selling points).
