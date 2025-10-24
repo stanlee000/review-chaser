@@ -42,7 +42,6 @@ An AI-powered tool designed to help businesses analyze their website presence, g
 <img width="400" alt="review_chaser_1" src="https://github.com/user-attachments/assets/4b5a732e-3250-4905-b205-7d6347346c49" />
 
 ## Tech Stack
-
 -   **Frontend:** React.js, Material UI, React Router
 -   **Backend:** Node.js, Express.js
 -   **Core Logic:**
